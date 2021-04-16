@@ -393,16 +393,16 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 專利名稱:販賣機出貨系統及其運作方法
 &lt;/strong&gt;&lt;/p&gt;
-  &lt;img alt="" height="400" src="./../images/專利畫面.png" width="900"&gt;
+  &lt;img alt="" height="400" src="./../images/專利畫面.PNG" width="900"&gt;
  &lt;/section&gt;</t>
 <t tx="leo.20210414221942.2"> &lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
      &lt;h2&gt;專利販賣機示意圖&lt;/h2&gt;
-  &lt;img alt="" height="550" src="./../images/專利1.png" width="500"&gt;
+  &lt;img alt="" height="550" src="./../images/專利1.PNG" width="500"&gt;
    &lt;/section&gt;
   </t>
 <t tx="leo.20210414222048.1"> &lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
      &lt;h2&gt;專利販賣機的運作概念&lt;/h2&gt;
-  &lt;img alt="" height="550" src="./../images/專利2.png" width="500"&gt;
+  &lt;img alt="" height="550" src="./../images/專利2.PNG" width="500"&gt;
    &lt;/section&gt;
   </t>
 <t tx="leo.20210414222830.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
