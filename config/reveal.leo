@@ -41,9 +41,11 @@
 <v t="leo.20210414203622.1"><vh>蜗桿滑塊</vh></v>
 <v t="leo.20210414203622.2"><vh>取物窗</vh></v>
 </v>
+<v t="leo.20210416145050.1"><vh>組合圖-頭</vh>
 <v t="leo.20200818194751.1"><vh>組合圖</vh></v>
 <v t="leo.20200818194840.1"><vh>長蜗桿細節圖</vh></v>
 <v t="leo.20200818195039.1"><vh>滾筒細節圖</vh></v>
+</v>
 <v t="leo.20200818195105.1"><vh>模擬問題-頭</vh>
 <v t="leo.20210414211529.1"><vh>模擬問題</vh></v>
 <v t="leo.20200818195213.1"><vh>第一次模擬</vh></v>
@@ -410,7 +412,12 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;
 </t>
 <t tx="leo.20210416134746.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
     &lt;p&gt;從二人轉換到四人協同的過程，雖然是多了兩個人，但意見也就多了多，每個人的想法都不一樣，怎麼去結合成一項產品，溝通尤為重要。我們也去利用了gitter去達成不在同一空間的問題，去討論出我們這次的主題[免彎腰自動販賣機]。之後希望在八人合作時，能克服每個人不同的意見，然後統整在一起，能做出更不一樣的東西。&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210416145050.1">&lt;section&gt;
+     @others
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
