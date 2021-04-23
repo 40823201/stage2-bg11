@@ -51,6 +51,9 @@
 <v t="leo.20200818195213.1"><vh>第一次模擬</vh></v>
 <v t="leo.20200818195237.1"><vh>第二次模擬</vh></v>
 <v t="leo.20200818195305.1"><vh>第三次模擬</vh></v>
+<v t="leo.20210423134656.1"><vh>第四次模擬</vh></v>
+<v t="leo.20210423135145.1"><vh>模擬補充說明</vh></v>
+<v t="leo.20210423135242.1"><vh>影片</vh></v>
 </v>
 <v t="leo.20210414220420.1"><vh> 參考文獻-頭</vh>
 <v t="leo.20210414221942.1"><vh> 參考文獻</vh></v>
@@ -317,7 +320,8 @@ vertical: body pane on the botton</t>
  &lt;/section&gt;</t>
 <t tx="leo.20210414193053.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
 &lt;h2&gt;專題名稱:免彎腰販賣機&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="500" src="./../images/免彎腰販賣機.png" width="300"&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img caption="false" height="500" src="./../images/自動販賣機(組合).png" width="700
+"&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210414193241.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
@@ -419,5 +423,45 @@ vertical: body pane on the botton</t>
      @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20210423134656.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;h2&gt;第四次模擬&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;
+
+修正第三次的問題後，現在可以上升至正常高度，且齒輪與蜗
+
+桿的配合也不會這麼奇怪。再來我們將商品放入了彈簧中，並
+
+讓它旋轉後掉到滾進平台，上升到可拿取的地方。
+
+
+&lt;/strong&gt;&lt;/p&gt;
+ &lt;img alt="" height="250" src="./../images/模擬第四次 .gif" width="700"&gt;
+ &lt;/section&gt;</t>
+<t tx="leo.20210423135145.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;h2&gt;模擬補充說明&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;
+
+[補充說明]:商品再經由旋轉掉落的時候，因為會撞到外蓋的關係，所以會直接掉
+
+到滾輪區，然後滑落，但是因為在模擬的時候蓋住外殼我們會看不見裡面，所
+
+以我們會將外蓋打開，以便觀看，但這也導致了，商品失去了一個反彈的力讓
+
+它掉到滾輪區，所以變得每次都會掉出來外面，所以我們只能將置物架設定為
+
+無碰撞，讓商品直接掉落到滾輪區，已完成這次的模擬。(詳圖如下)
+
+
+
+&lt;/strong&gt;&lt;/p&gt;
+ &lt;/section&gt;</t>
+<t tx="leo.20210423135242.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;h2&gt;模擬&lt;/h2&gt;
+&lt;p&gt;&lt;stron&gt;
+
+
+&lt;/strong&gt;&lt;/p&gt;
+ &lt;img alt="" height="400" src="./../images/模擬補充說明.gif" width="700"&gt;
+ &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
