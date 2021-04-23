@@ -42,6 +42,7 @@
 <v t="leo.20210414203622.2"><vh>取物窗</vh></v>
 </v>
 <v t="leo.20210416145050.1"><vh>組合圖-頭</vh>
+<v t="leo.20210423140615.1"><vh>模擬</vh></v>
 <v t="leo.20200818194751.1"><vh>組合圖</vh></v>
 <v t="leo.20200818194840.1"><vh>長蜗桿細節圖</vh></v>
 <v t="leo.20200818195039.1"><vh>滾筒細節圖</vh></v>
@@ -267,10 +268,11 @@ vertical: body pane on the botton</t>
     &lt;img alt="" height="500" src="./../images/螢幕擷取畫面 (3).png" width="900"&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818194751.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-    &lt;h2&gt;組合圖&lt;/h2&gt;
-    &lt;img alt="" height="500" src="./../images/螢幕擷取畫面 (18).png" width="900"&gt;
-&lt;/section&gt;
+<t tx="leo.20200818194751.1">
+&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+&lt;h2&gt;inventor模擬&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="650" height="500" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/S98uro0Zchs" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+ &lt;/section&gt;
 </t>
 <t tx="leo.20200818194840.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
     &lt;h2&gt;長蜗桿細節圖&lt;/h2&gt;
@@ -340,7 +342,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210414203040.1">&lt;section&gt;
-    &lt;h2&gt;螺旋鉤子X3&lt;/h2&gt;
+    &lt;h2&gt;螺旋鉤子X9&lt;/h2&gt;
     &lt;img alt="" height="500" src="./../images/螢幕擷取畫面 (16).png" width="900"&gt;
 &lt;/section&gt;
 </t>
@@ -463,5 +465,9 @@ vertical: body pane on the botton</t>
 &lt;/strong&gt;&lt;/p&gt;
  &lt;img alt="" height="400" src="./../images/模擬補充說明.gif" width="700"&gt;
  &lt;/section&gt;</t>
+<t tx="leo.20210423140615.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+    &lt;h2&gt;組合圖&lt;/h2&gt;
+    &lt;img alt="" height="500" src="./../images/螢幕擷取畫面 (18).png" width="900"&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
